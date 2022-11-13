@@ -1,0 +1,6 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:939:22:LL_GPIO_TogglePin	24	static
+../Core/Src/freertos.c:114:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:172:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:191:6:StartTask02	48	static
+../Core/Src/freertos.c:239:6:StartTask03	16	static
+../Core/Src/freertos.c:274:6:StartTask04	16	static
